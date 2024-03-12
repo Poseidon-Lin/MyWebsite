@@ -2,10 +2,10 @@ body {
   background-color:"gary"
 }
 h1 {
-  color:"yellow"
+  color:"yellow";
   font-size:30
 }
 button {
-  background-color:"white"
+  background-color:"white";
   text-color:"lightblue"
 }
